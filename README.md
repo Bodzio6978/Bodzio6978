@@ -4,11 +4,13 @@
 
 - Android
 - Kotlin
+- Jetpack Compose
 - Dagger Hilt
 - Coroutines
 - Firebase
 - Retrofit
 - Room
 - MVVM
+- JUnit5
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=bodzio6978&show_icons=true&include_all_commits=true&theme=blue-white&count_private=true" alt="github stats">
