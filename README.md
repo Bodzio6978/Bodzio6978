@@ -7,10 +7,12 @@
 - Jetpack Compose
 - Dagger Hilt
 - Coroutines
+- RxJava
 - Firebase
 - Retrofit
 - Room
 - MVVM
+- MVI
 - JUnit5
 - Mockito
 - Robolectric
